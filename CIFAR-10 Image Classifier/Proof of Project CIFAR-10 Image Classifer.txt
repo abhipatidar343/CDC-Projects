@@ -1,0 +1,6 @@
+Link to GitHub Repository for CIFAR-10 Image Classifier: 
+
+https://github.com/abhipatidar343/CDC-Projects/tree/0239ecd31712fdc8daba6cf7691816d98cf65b2a/CIFAR-10%20Image%20Classifier
+
+Made by Abhi Patidar, 21ME10112, IIT KGP
+
